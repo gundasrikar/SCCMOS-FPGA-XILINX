@@ -9,7 +9,7 @@ The **Sleepy Keeper Technique (SKT) is a low-power VLSI design** method that red
 
 # Sleepy Keeper Concept
 
-**Sleepy Keeper Concept NAND Logic**
+**1. Sleepy Keeper Concept NAND Logic**
 
 ![image](https://github.com/user-attachments/assets/81305142-b630-4e00-a797-2e92ed4dc470)
 
@@ -23,7 +23,7 @@ Sleepy Keeper concept NAND Transistor Level Layout diagram designed in microwind
 ![image](https://github.com/user-attachments/assets/0a97235e-96cd-4ebd-a51d-aa31335c1dcb)
 ![image](https://github.com/user-attachments/assets/8699668e-b214-4962-99c1-0b4ac99f813f)
 
-**Sleepy Keeper concept half adder circuit**
+**2. Sleepy Keeper concept half adder circuit**
 
 ![image](https://github.com/user-attachments/assets/2b9d3541-801b-45c1-a052-2abc735aa094)
 
@@ -35,7 +35,7 @@ Sleepy Keeper concept NAND Transistor Level Layout diagram designed in microwind
 
 ![image](https://github.com/user-attachments/assets/4ab86d64-2aea-4455-bb68-5e929c6691c9)
 
-**Sleepy Keeper concept NOR Transistor level circuit**
+**3. Sleepy Keeper concept NOR Transistor level circuit**
 
 ![image](https://github.com/user-attachments/assets/ea7467fd-725f-4f69-8feb-537fa9e7bcc8)
 
