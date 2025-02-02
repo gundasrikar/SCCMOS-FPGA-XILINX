@@ -28,7 +28,7 @@ Sleepy Keeper concept NAND Transistor Level Layout diagram designed in microwind
 
 ![image](https://github.com/user-attachments/assets/36cfd53f-7d45-49f5-9f0e-f649d148351f)
 
-**Logic timing diagram**
+**Logic Timing Diagram**
 
 ![image](https://github.com/user-attachments/assets/0a97235e-96cd-4ebd-a51d-aa31335c1dcb)
 ![image](https://github.com/user-attachments/assets/8699668e-b214-4962-99c1-0b4ac99f813f)
@@ -49,7 +49,7 @@ A **Half Adder** is a fundamental digital circuit used for adding two single-bit
 
 ![image](https://github.com/user-attachments/assets/e64ac179-9041-461a-b8c3-2d6b93d33d9a)
 
-**Logic timing diagram**
+**Logic Timing Diagram**
 
 ![image](https://github.com/user-attachments/assets/4ab86d64-2aea-4455-bb68-5e929c6691c9)
 
@@ -69,7 +69,7 @@ A NOR gate (NOT OR) is a digital logic gate that produces a HIGH (1) output only
 
 ![image](https://github.com/user-attachments/assets/93fe4ab4-8e33-44b2-a47d-729a1bd6a1f2)
 
-**Logic timing diagram**
+**Logic Timing Diagram**
 
 ![image](https://github.com/user-attachments/assets/582572bf-4b15-4bdb-8f60-2c2ec0e6ac53)
 
