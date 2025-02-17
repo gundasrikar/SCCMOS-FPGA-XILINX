@@ -1,4 +1,4 @@
-# Leakage Power Reduction Techniques in Deep Submicron Technologies
+# Leakage Power Reduction Techniques in Deep Submicron Technologies.
 
 <div style="text-align: justify;">
   
